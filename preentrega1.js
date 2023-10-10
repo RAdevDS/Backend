@@ -1,4 +1,4 @@
-// Se crean dos clases de productos
+// Se crea la clase "Product"
 class Product {
     constructor(title, description, price, thumbnail, code, stock) {
       this.title = title;
